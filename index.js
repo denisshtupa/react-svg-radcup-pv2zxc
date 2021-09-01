@@ -7,11 +7,11 @@ class App extends Component {
   constructor() {
     super();
     this.images = [
-      { name: 'band' },
-      { name: 'all-games', extras: { state: true } },
-      { name: 'all-games' },
-      { name: 'my-games' },
-      { name: 'my-games', extras: { state: true } },
+      // { name: 'band' },
+      // { name: 'all-games', extras: { state: true } },
+      // { name: 'all-games' },
+      // { name: 'my-games' },
+      // { name: 'my-games', extras: { state: true } },
       { name: 'circle' }
     ];
   }
